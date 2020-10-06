@@ -1,0 +1,39 @@
+nav{
+    text-align:right;
+    height:40px;
+    background-color:white;
+}
+
+.button{
+    width: 165px;
+    background-color: blue;
+}
+
+body{
+    background-color:#2299ff;
+}
+
+form{
+    margin: 0 auto;
+    height:350px;
+    width:250px;
+    padding: 30px 25px;
+    align-content: center;
+    background-color:white;
+}
+
+label{
+    width:125%;
+    align-content: center;
+    left: 10px;
+}
+
+img{
+    height:25px;
+    width:25px;
+    border-radius:5px;
+}
+
+nav a{
+    position: relative;
+}
